@@ -1,8 +1,8 @@
-# 🇬🇧 Deadlock UK RP | Low-Pop Community Guidelines
+# 🇬🇧 Overflown UK RP | Low-Pop Community Guidelines
 
-Welcome to **Deadlock UK**. As a growing community, our rules are designed to prioritize **quality interaction** over rigid restrictions. In a low-population environment, every player counts—be the reason someone wants to stay.
+Welcome to **Overflown UK**. As a growing community, our rules are designed to prioritize **quality interaction** over rigid restrictions. In a low-population environment, every player counts—be the reason someone wants to stay.
 
-> **Requirement:** Deadlock UK is an **18+ server**. You must be 18 years of age or older. No exceptions.
+> **Requirement:** Overflown UK is an **18+ server**. You must be 18 years of age or older. No exceptions.
 
 ---
 
@@ -92,5 +92,5 @@ In a growing city, gangs (Firms/Organisations) are the lifeblood of conflict. Ho
 * **Reporting:** Use `/report` in-game or open a ticket. Do not break character to argue about rules.
 
 ---
-**Last Updated:** January 16, 2026
-**Deadlock UK Management**
+**Last Updated:** January 22, 2026
+**Overflown UK Management**
